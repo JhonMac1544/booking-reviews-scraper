@@ -1,0 +1,37 @@
+[
+  {
+    "id": "65d22b83283cb5e4",
+    "hotelId": "us/chicago-t",
+    "reviewPage": 1,
+    "userName": "Simon",
+    "userLocation": "United Kingdom",
+    "roomInfo": "King Room with One King Bed - Non-Smoking",
+    "stayDate": "January 2022",
+    "stayLength": "2 nights",
+    "reviewDate": "January 12, 2022",
+    "reviewTitle": "Exceptional",
+    "rating": "10",
+    "reviewTextParts": {
+      "Liked": "Cheap and cheerful, the rooms are old school but warm and clean, staff friendly"
+    },
+    "customData": {}
+  },
+  {
+    "id": "3793d41df4ef9587",
+    "hotelId": "us/chicago-t",
+    "reviewPage": 1,
+    "userName": "Nilesh",
+    "userLocation": "United States of America",
+    "roomInfo": "King Room with One King Bed - Non-Smoking",
+    "stayDate": "April 2023",
+    "stayLength": "2 nights",
+    "reviewDate": "April 24, 2023",
+    "reviewTitle": "Great location hotel with amazing team in dated rooms.",
+    "rating": "7.0",
+    "reviewTextParts": {
+      "Liked": "Staff was incredibly helpful and kind.",
+      "Disliked": "The bathroom was tiny."
+    },
+    "customData": {}
+  }
+]
