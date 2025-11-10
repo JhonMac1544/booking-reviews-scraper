@@ -1,0 +1,10 @@
+{
+  "maxPagesPerHotel": 2,
+  "outputDirectory": "outputs",
+  "outputFormats": ["json", "csv", "excel", "xml", "html"],
+  "request": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "timeoutSeconds": 20,
+    "delayBetweenRequestsSeconds": 1.0
+  }
+}
