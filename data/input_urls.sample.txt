@@ -1,0 +1,5 @@
+# Sample input file for Booking Reviews Scraper
+# Lines starting with '#' are ignored.
+# You can specify either:
+#  - A plain Booking.com hotel URL
+#  - Or a JSON object with 'url' and optional 'customData' fields.
